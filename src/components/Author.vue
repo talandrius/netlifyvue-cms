@@ -10,7 +10,7 @@
 		</p>
 
 		<p class="author__links">
-			<a href="www.talandria.fr">Nos formations G Suite</a>
+			<a href="about/">A propos</a>
 			
 		</p>
 
