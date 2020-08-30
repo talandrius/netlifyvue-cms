@@ -1,5 +1,8 @@
 <template>
   <div>
+  <p>
+  <a href="/">Accueil</a>
+  </p>
     <h1>About me !</h1>
   </div>
 </template>
