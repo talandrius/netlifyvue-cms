@@ -6,12 +6,12 @@
 		</h1>
 
 		<p class="author__intro">
-			A simple, hackable & minimalistic starter for Gridsome that uses Netlify CMS for content.
+			Comment apprendre et créer votre site web simplement à l'aide du Framework <strong>Gridsome</strong>.
 		</p>
 
 		<p class="author__links">
-			<a href="//twitter.com/suits_at">Follow on Twitter</a>
-			<a href="https://github.com/suits-at/netlifycms-gridsome">GitHub</a>
+			<a href="www.talandria.fr">Nos formations G Suite</a>
+			
 		</p>
 
 	</div>
