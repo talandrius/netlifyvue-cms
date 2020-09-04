@@ -28,7 +28,7 @@ Enable the netlify identity service at https://app.netlify.com/sites/YOUR-SITE/s
 Access `yourwebsite.com/admin`, e.g. `netfliycms-gridsome.netlify.com/admin` or locally this might be  `localhost:3000/admin`.
 
 ## Install locally
-
+[![Run on Repl.it](https://repl.it/badge/github/talandrius/netlifyvue-cms)](https://repl.it/github/talandrius/netlifyvue-cms)
 ### 1. Install Gridsome CLI tool if you don't have
 
 `npm install --global @gridsome/cli`
