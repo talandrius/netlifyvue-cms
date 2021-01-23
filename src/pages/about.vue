@@ -1,10 +1,14 @@
 <template>
-  <div>
-  <p>
-  <a href="/">Accueil</a>
-  </p>
-    <h1>About me !</h1>
-  </div>
+  <Layout :show-logo="false">
+    <!-- Author intro -->
+    <Author :show-title="true" />
+
+    <!-- List posts -->
+    <div class="posts">
+      <p>About my page to JS</p>
+    </div>
+
+  </Layout>
 </template>
 <script>
 export default {
